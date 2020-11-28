@@ -1,0 +1,19 @@
+.container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.bulge-container {
+  height: 90%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.bulge-container img {
+  max-height: 100%;
+  max-width: 100%;
+}
